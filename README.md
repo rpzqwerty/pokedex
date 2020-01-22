@@ -76,3 +76,30 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
+##Pokedex
+
+This project uses laravel and PokéAPI.
+○ A homepage - which includes:
+■ A search bar - that allows a user to search for a Pokemon.
+■ A random Pokemon card below the search bar which would
+change on a daily basis for every user but not on every
+refresh.
+
+○ A details page - that would display all the attributes associated
+with the Pokemon.
+
+○ A search results pages - with list of Pokemon that would match
+the user search.
+
+
+##Bugs
+These things are pending and is not icorporated in the current code.
+
+■ A random Pokemon card below the search bar which would
+change on a daily basis for every user but not on every
+refresh.
+
+○ A search results pages - with list of Pokemon that would match
+the user search.
