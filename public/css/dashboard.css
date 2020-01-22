@@ -1,0 +1,19 @@
+.pokecard{
+	width: 40%;
+	margin-top: 5%;
+	margin-left: 30%;
+}
+
+.body{
+	text-align: center;
+    margin: 5%;
+}
+.md-card.md-theme-default .md-card-expand .md-card-actions{
+	margin:8%;
+}
+.description{
+	margin-inline-end: 30%;
+    font-weight: 300;
+    font-size: 30px;
+    line-height: 50px;
+}
